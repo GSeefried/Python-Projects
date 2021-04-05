@@ -1,2 +1,3 @@
 # Python-Projects
-Personal Python projects, keeping track of growth as I learn.
+
+Hello! This repository is a collection of my personal Python projects as I continue to learn.
